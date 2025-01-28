@@ -1,1 +1,1 @@
-pysimplesoap==0.14
+pysimplesoap==1.16.2
